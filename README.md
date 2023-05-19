@@ -1,6 +1,6 @@
 # control-panel-students
 
-http://control-panel.webtm.ru/
+https://vladmikhalev.github.io/control-panel-students/
 
 -Панель управления студентами предназначена для добавления, отслеживания и сортировки студентов.
 
